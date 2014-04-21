@@ -48,9 +48,10 @@ public final class R {
         public static final int photoscustom=0x7f020018;
     }
     public static final class id {
-        public static final int action_settings=0x7f08000b;
+        public static final int action_settings=0x7f08000c;
         public static final int activities=0x7f080005;
         public static final int blackboard=0x7f080007;
+        public static final int button1=0x7f08000b;
         public static final int buttonlogin=0x7f080001;
         public static final int email=0x7f080009;
         public static final int events=0x7f080006;
@@ -66,6 +67,7 @@ public final class R {
         public static final int flashfirst=0x7f030001;
         public static final int menu=0x7f030002;
         public static final int news=0x7f030003;
+        public static final int testaddd=0x7f030004;
     }
     public static final class menu {
         public static final int main=0x7f070000;
