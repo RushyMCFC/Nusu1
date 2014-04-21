@@ -1,6 +1,5 @@
 package com.example.nusu1;
 
-
 import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
